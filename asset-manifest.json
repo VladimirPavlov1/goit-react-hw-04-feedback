@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VladimirPavlov1/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/VladimirPavlov1/goit-react-hw-04-feedback/static/js/main.07d3183d.js",
+    "main.js": "/VladimirPavlov1/goit-react-hw-04-feedback/static/js/main.e4e01d7c.js",
     "index.html": "/VladimirPavlov1/goit-react-hw-04-feedback/index.html",
     "main.7acaea2f.css.map": "/VladimirPavlov1/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/VladimirPavlov1/goit-react-hw-04-feedback/static/js/main.07d3183d.js.map"
+    "main.e4e01d7c.js.map": "/VladimirPavlov1/goit-react-hw-04-feedback/static/js/main.e4e01d7c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.e4e01d7c.js"
   ]
 }
